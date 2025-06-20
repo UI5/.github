@@ -28,10 +28,10 @@ Tutorials()
 Join the conversation and help the community.
 
 * [LinkedIn](https://www.linkedin.com/company/openui5) 
-* [BlueSky](https://twitter.com/yourorg)
+* [BlueSky](https://bsky.app/profile/ui5.bsky.social)
 * [Slack](https://ui5-slack-invite.cfapps.eu10.hana.ondemand.com/) 
 * [YouTube](https://www.youtube.com/user/openui5videos) 
-* [Announcements](https://github.com/ui5/announcements)
+<!--* [Announcements](https://github.com/ui5/announcements)-->
 
 Explore UI5-related projects in [UI5-Community](https://github.com/UI5-community) 
 
